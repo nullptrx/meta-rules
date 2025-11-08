@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "asia.csoversea.mbgame.anticheatexpert.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "igamecj.com",
+        "gjacky.com"
+      ]
+    }
+  ]
+}
